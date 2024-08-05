@@ -12,7 +12,7 @@
 </div>
 
 
-<a href="https://nodejs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/454x128.png"></a> | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a> | <a href="tessel/t/square/128x128.png"><img height=48 src="tessel/t/square/128x128.png" alt="Tessel"></a>
+<a href="https://nodejs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/454x128.png"></a> | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a> |
 --- | --- | ---
-0.10+ ✔ | 1.0+ ✔ | Latest ✔
+0.10+ ✔ | 1.0+ ✔ |
 
